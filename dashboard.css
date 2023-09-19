@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #E4E9FD;
+    font-family: 'Montserrat', sans-serif;
+}
+.header{
+    background-color: #A683E3 ;
+    height: 100px;
+    position: relative;
+}
+.container{
+    position: relative;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.box{
+    height: fit-content;
+    width: 500px;
+    border: 1px solid black;   
+    align-items: center;
+}
